@@ -17,7 +17,7 @@
 - 🛠️ **My sample project**:  
   - Computer Vision Hand Sign Detection for Emergency Alert 🚨✋🏻
   - Automatic Sterilizing Trash Bin for Medical Use during the COVID-19 Pandemic 🧑🏻‍⚕️🩺🦠
-- 🌐 Visit my site: [Waiyawat.com](https://waiyawat.com)
+- 🌐 Visit my site: [Waiyawat.com](https://Waiyawat.com)
 
 ---
 

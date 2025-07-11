@@ -48,7 +48,7 @@
 
 ### 🤝 Let's Connect
 
-- 🌐 Website: [waiyawat.com](https://waiyawat.com)
+- 🌐 Website: [Waiyawat.com](https://Waiyawat.com)
 - 📬 Email: Email available upon request.
 - 💬 Always open to collab in projects **IoT / WebApp / Computer Vision / Real-world Tech Integration**
 

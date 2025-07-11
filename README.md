@@ -1,4 +1,4 @@
-## Hi visitor 👋
+## Hi everyone 👋
 
 <h1 align="center">I'm Waiyawat Aphiraktanon, a passionate innovator and developer.</h1>
 <h3 align="center">CS Student</h3>
@@ -13,10 +13,10 @@
 ### 💡 About Me
 
 - 🎓 I'm a Computer Science student passionate about building **innovative technology**.
-- 🧠 Interested in **IoT**, **Microcontrollers**, and how **software meets the physical world**.
-- 🛠️ My sample project:  
-  **Computer Vision Hand Sign Detection for Emergency Alert 🚨**
-  **Automatic Sterilizing Trash Bin for Medical Use during the COVID-19 Pandemic 🧑🏻‍⚕️🩺**
+- 🧠 Interested in **IoT**, **Microcontrollers**, **Web App** and how **software meets the physical world**.
+- 🛠️ **My sample project**:  
+  - Computer Vision Hand Sign Detection for Emergency Alert 🚨✋🏻
+  - Automatic Sterilizing Trash Bin for Medical Use during the COVID-19 Pandemic 🧑🏻‍⚕️🩺🦠
 - 🌐 Visit my site: [Waiyawat.com](https://waiyawat.com)
 
 ---
@@ -35,6 +35,7 @@
 
 ---
 
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -43,11 +44,12 @@
 </p>
 
 ---
+-->
 
 ### 🤝 Let's Connect
 
 - 🌐 Website: [waiyawat.com](https://waiyawat.com)
-- 📬 Email: N/A
+- 📬 Email: Email available upon request.
 - 💬 Always open to collab in projects **IoT / WebApp / Computer Vision / Real-world Tech Integration**
 
 ---
